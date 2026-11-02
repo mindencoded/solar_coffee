@@ -1,4 +1,4 @@
-﻿namespace solar_coffee.test;
+﻿namespace SolarCoffee.Test;
 
 public class UnitTest1
 {
