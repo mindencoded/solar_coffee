@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="solar_coffe.web/solar_coffe.web.csproj" />
+  <Project Path="solar_coffee.data/solar_coffee.data.csproj" />
+  <Project Path="solar_coffee.services/solar_coffee.services.csproj" />
+  <Project Path="solar_coffee.test/solar_coffee.test.csproj" />
+</Solution>
